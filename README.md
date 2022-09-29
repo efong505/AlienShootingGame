@@ -1,5 +1,7 @@
 # Alien Invader Game 
 ### For 2022 Fall - ICT-362-M70-SOFTWARE TECH II Class
+**Source is from Python Crash Course, 2nd Edition By Eric Matthes**
+
 Edward Fong
 
 ## Objective
