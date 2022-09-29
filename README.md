@@ -8,9 +8,32 @@ The objective of this program is to learn basic game development using Python.
 ## Installation
 Make sure that you have Python installed on your computer. 
 
-Follow these steps:
-1. Once Python is insalled, in powershell, type:
-```python
-py -m pip install -r requirements.txt
+Make sure that you have Git installed on your computer. Once you have it installed...
 
+**Follow these steps:**
+1. Once Python is insalled, in powershell, type:
+
+```powershell
+git clone https://github.com/efong505/AlienShootingGame.git
 ```
+Once you have the repository downloaded to your folder change your directory into the Alien
+
+```powershell
+cd AlienShootingGame
+```
+Start the virtual environment by typing:
+
+```powershell
+.\env\Scripts\activate
+```
+then run the pip install from the requirements.txt file...
+```powershell
+py -m pip install -r requirements.txt
+```
+Then run the game by typing:
+```powershell
+alien_invasion.py
+```
+You can either start the game by pressing the start button or type `s`
+
+To quit you just type `q`
